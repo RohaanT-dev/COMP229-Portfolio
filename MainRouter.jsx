@@ -11,7 +11,7 @@ import Contact from './src/contact'
 
 import Services from './src/services'
 
-import Project from './src/project'
+import Projects from './src/projects'
 
 import Layout from './components/Layout'
 
@@ -34,7 +34,7 @@ const MainRouter = () => {
 
                         <Route exact path="/services" element={<Services />} />
 
-                        <Route exact path="/project" element={<Project />} />
+                        <Route exact path="/projects" element={<Projects />} />
 
                         <Route exact path="/contact" element={<Contact />} />
 
