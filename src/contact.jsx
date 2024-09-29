@@ -5,7 +5,8 @@ export default function Contact() {
 
       <>
         <div style={{border:"2px solid black", marginLeft:"70px", marginRight:"500px"}}>
-        <p style={{fontWeight:"bold"}}>Contact at: rohaan201mir@gmail.com</p>
+        <p style={{fontWeight:"bold"}}>Contact Information</p>
+        <p style={{fontWeight:"bold"}}>Email: rohaan201mir@gmail.com</p>
         <p style={{fontWeight:"bold"}}>Number: 444-444-4444</p>
         </div>
         
