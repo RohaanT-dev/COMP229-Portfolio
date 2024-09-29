@@ -12,8 +12,8 @@ export default function Services() {
           <li>Game Development</li>
           <li>UI/UX Design</li>
         </ul>
-        <img src="./public/WebDevelopment.jpeg" width="360px" height="300px" style={{marginLeft:"600px", marginTop:"-160px"}}></img>
-        <img src="./public/MobileAppDevelopment.jpeg" width="360px" height="300px" style={{marginLeft:"100px", marginTop:"-160px"}}></img>
+        <img src="WebDevelopment.jpeg" width="360px" height="300px" style={{marginLeft:"600px", marginTop:"-160px"}}></img>
+        <img src="MobileAppDevelopment.jpeg" width="360px" height="300px" style={{marginLeft:"100px", marginTop:"-160px"}}></img>
 
         
       </>

@@ -9,7 +9,7 @@ export default function Layout() {
   return (
 
     <>
-      <img src='./public/favicon.ico' width="100px" height="auto" style={{float: "left", marginRight:"10px"}}></img>
+      <img src='favicon.ico' width="100px" height="auto" style={{float: "left", marginRight:"10px"}}></img>
       <h1 style={{marginTop:"0px", paddingTop:"20px"}}>My Portfolio</h1>
 
       <nav>
